@@ -16,3 +16,5 @@ change a small isue at the comute histograms function, so it works with the  gra
 20-march-2020
 
 i have the results, for a sample of query images. chi2 distance function performs poorly and it was expected according to what the prof says, maybe it will not have accuracy 0 for the whole 89 images,but anyway it will be really small. i cant believe that i did sth wrong in writing the formula, its pretty straightforward.
+
+added part 4.a
