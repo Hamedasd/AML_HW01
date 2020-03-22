@@ -18,3 +18,5 @@ change a small isue at the comute histograms function, so it works with the  gra
 i  results for 3.c, for a sample of query images. chi2 distance function performs poorly and it was expected according to what the prof says, maybe it will not have accuracy 0 for the whole 89 images,but anyway it will be really small. 
 
 added part 4
+
+final draft file: fixes some code parts according to the prof's code, except for part 3.c
